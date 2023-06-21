@@ -1,0 +1,15 @@
+// index.js
+console.log("Hello, world!");
+
+// package.json
+{
+  "name": "my-repo",
+  "version": "1.0.0",
+  "description": "My Repository",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
